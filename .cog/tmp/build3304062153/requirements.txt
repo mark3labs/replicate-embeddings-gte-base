@@ -1,0 +1,2 @@
+sentence_transformers==2.2.2
+langchain==0.0.266
